@@ -3,7 +3,8 @@ import React from "react";
 const Recorder = () => {
   return (
     <div>
-      <object width="220" height="140">
+      <h2>Sing a Song</h2>
+      <object width="400" height="300">
         <param name="movie" value="https://vocaroo.com/mediafoo.swf?playMediaID=0&autoplay=0" />
         <embed 
           src="https://vocaroo.com/mediafoo.swf?playMediaID=0&autoplay=0" 
