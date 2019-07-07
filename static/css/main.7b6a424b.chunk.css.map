@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,QACE,SAAU,CACV,eACF","file":"main.7b6a424b.chunk.css","sourcesContent":[".active{\r\n  color: red;\r\n  font-weight: bold;\r\n}\r\n"]}
