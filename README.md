@@ -1,8 +1,8 @@
 
 
-A toy app that I'm working on for a bit of practice.
+A [toy app](https://jodreclado.github.io/ts-app/) that I'm working on for a bit of practice.
 
-Not mvery fancy at the moment...
+Not very fancy at the moment...
 
 ## Usage
 ```
