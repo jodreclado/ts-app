@@ -9,7 +9,7 @@ const Recorder = lazy(() => import("./Recorder"));
 
 const App: React.FC = () => {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div>
         <nav>
           <NavLink exact to='/'>Home</NavLink>{' | '}
